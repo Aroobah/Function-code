@@ -17,7 +17,7 @@ function createContactList () {
   contactList.push(firstContact, secondContact, thirdContact);
 
   return contactList;
-};
+}
 
 const firstContact = new Contact(
   'Asmaa', 
@@ -35,7 +35,7 @@ const thirdContact = new Contact(
   'Adeelah', 
   'Zakariyya',
   '07056778972',
-  'adeelahsulaym@gmail.com'
+  'adeelahzakariyyah05@gmail.com'
 );
 
 const myContactList = createContactList();
